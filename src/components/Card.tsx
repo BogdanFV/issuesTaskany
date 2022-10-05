@@ -11,6 +11,7 @@ export const Card = styled.div`
 
     border: 1px solid ${gray4};
     border-radius: ${radiusM};
+    padding: 0 0 38px 0;
 `;
 
 export const CardContent = styled.div`
