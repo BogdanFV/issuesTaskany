@@ -11,13 +11,12 @@ export const Card = styled.div`
 
     border: 1px solid ${gray4};
     border-radius: ${radiusM};
-    padding: 0 0 38px 0;
 `;
 
 export const CardContent = styled.div`
     position: relative;
     box-sizing: border-box;
-    padding: 12px 14px;
+    padding: 12px 14px 60px;
 `;
 
 const StyledCardInfo = styled(Text)`
